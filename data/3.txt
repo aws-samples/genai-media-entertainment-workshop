@@ -1,0 +1,9 @@
+movie id: 31357
+title: Waiting to Exhale
+genres: Comedy, Drama, Romance
+spoken languages: English
+release date: 1995-12-22
+rating: nan
+cast: Whitney Houston, Angela Bassett, Loretta Devine, Lela Rochon, Gregory Hines, Dennis Haysbert, Michael Beach, Mykelti Williamson, Lamont Johnson, Wesley Snipes
+movie overview: Cheated on, mistreated and stepped on, the women are holding their breath, waiting for the elusive "good man" to break a string of less-than-stellar lovers. Friends and confidants Vannah, Bernie, Glo and Robin talk it all out, determined to find a better way to breathe.
+budget: 16000000

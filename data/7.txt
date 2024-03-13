@@ -1,0 +1,9 @@
+movie id: 45325
+title: Tom and Huck
+genres: Action, Adventure, Drama, Family
+spoken languages: English, Deutsch
+release date: 1995-12-22
+rating: nan
+cast: Jonathan Taylor Thomas, Brad Renfro, Rachael Leigh Cook, Michael McShane, Amy Wright, Eric Schweig, Tamara Mello
+movie overview: A mischievous young boy, Tom Sawyer, witnesses a murder by the deadly Injun Joe. Tom becomes friends with Huckleberry Finn, a boy with no future and no family. Tom has to choose between honoring a friendship or honoring an oath because the town alcoholic is accused of the murder. Tom and Huck go through several adventures trying to retrieve evidence.
+budget: 0

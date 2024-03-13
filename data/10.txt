@@ -1,0 +1,9 @@
+movie id: 9087
+title: The American President
+genres: Comedy, Drama, Romance
+spoken languages: English
+release date: 1995-11-17
+rating: nan
+cast: Michael Douglas, Annette Bening, Michael J. Fox, Martin Sheen, Anna Deavere Smith, Shawna Waldron, Samantha Mathis, David Paymer, Richard Dreyfuss, Nina Siemaszko, Wendie Malick, Beau Billingslea, Gail Strickland, Joshua Malina, Clement von Franckenstein, John Mahoney, John Mahon, Gabriel Jarret
+movie overview: Widowed U.S. president Andrew Shepherd, one of the world's most powerful men, can have anything he wants -- and what he covets most is Sydney Ellen Wade, a Washington lobbyist. But Shepherd's attempts at courting her spark wild rumors and decimate his approval ratings.
+budget: 62000000

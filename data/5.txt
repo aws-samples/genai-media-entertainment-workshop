@@ -1,0 +1,9 @@
+movie id: 949
+title: Heat
+genres: Action, Crime, Drama, Thriller
+spoken languages: English, Español
+release date: 1995-12-15
+rating: 3.905543710021322
+cast: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight, Tom Sizemore, Diane Venora, Amy Brenneman, Ashley Judd, Mykelti Williamson, Natalie Portman, Ted Levine, Tom Noonan, Tone Loc, Hank Azaria, Wes Studi, Dennis Haysbert, Danny Trejo, Henry Rollins, William Fichtner, Kevin Gage, Susan Traylor, Jerry Trimble, Ricky Harris, Jeremy Piven, Xander Berkeley, Begonya Plaza, Rick Avery, Hazelle Goodman, Ray Buktenica, Max Daniels, Vince Deadrick Jr., Steven Ford, Farrah Forke, Patricia Healy, Paul Herman, Cindy Katz, Brian Libby, Dan Martin, Mario Roberts, Thomas Rosales, Jr., Yvonne Zima, Mick Gould, Bud Cort, Viviane Vives, Kim Staunton, Martin Ferrero, Brad Baldridge, Andrew Camuccio, Kenny Endoso, Kimberly Flynn, Niki Harris, Bill McIntosh, Rick Marzan, Terry Miller, Daniel O'Haco, Kai Soremekun, Peter Blackwell, Trevor Coppola, Mary Kircher, Darin Mangan, Robert Miranda, Manny Perry, Iva Franks Singer, Tim Werner, Philip Ettington
+movie overview: Obsessive master thief, Neil McCauley leads a top-notch crew on various insane heists throughout Los Angeles while a mentally unstable detective, Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.
+budget: 60000000

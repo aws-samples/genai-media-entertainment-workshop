@@ -1,0 +1,9 @@
+movie id: 15602
+title: Grumpier Old Men
+genres: Romance, Comedy
+spoken languages: English
+release date: 1995-12-22
+rating: nan
+cast: Walter Matthau, Jack Lemmon, Ann-Margret, Sophia Loren, Daryl Hannah, Burgess Meredith, Kevin Pollak
+movie overview: A family wedding reignites the ancient feud between next-door neighbors and fishing buddies John and Max. Meanwhile, a sultry Italian divorcée opens a restaurant at the local bait shop, alarming the locals who worry she'll scare the fish away. But she's less interested in seafood than she is in cooking up a hot time with Max.
+budget: 0

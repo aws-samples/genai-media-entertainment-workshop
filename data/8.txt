@@ -1,0 +1,9 @@
+movie id: 9091
+title: Sudden Death
+genres: Action, Adventure, Thriller
+spoken languages: English
+release date: 1995-12-22
+rating: nan
+cast: Jean-Claude Van Damme, Powers Boothe, Dorian Harewood, Raymond J. Barry, Ross Malinger, Whittni Wright
+movie overview: International action superstar Jean Claude Van Damme teams with Powers Boothe in a Tension-packed, suspense thriller, set against the back-drop of a Stanley Cup game.Van Damme portrays a father whose daughter is suddenly taken during a championship hockey game. With the captors demanding a billion dollars by game's end, Van Damme frantically sets a plan in motion to rescue his daughter and abort an impending explosion before the final buzzer...
+budget: 35000000

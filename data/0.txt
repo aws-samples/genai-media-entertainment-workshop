@@ -1,0 +1,9 @@
+movie id: 862
+title: Toy Story
+genres: Animation, Comedy, Family
+spoken languages: English
+release date: 1995-10-30
+rating: 3.5989304812834226
+cast: Tom Hanks, Tim Allen, Don Rickles, Jim Varney, Wallace Shawn, John Ratzenberger, Annie Potts, John Morris, Erik von Detten, Laurie Metcalf, R. Lee Ermey, Sarah Freeman, Penn Jillette
+movie overview: Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.
+budget: 30000000

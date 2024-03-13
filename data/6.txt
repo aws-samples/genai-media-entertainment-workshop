@@ -1,0 +1,9 @@
+movie id: 11860
+title: Sabrina
+genres: Comedy, Romance
+spoken languages: Français, English
+release date: 1995-12-15
+rating: nan
+cast: Harrison Ford, Julia Ormond, Greg Kinnear, Angie Dickinson, Nancy Marchand, John Wood, Richard Crenna, Lauren Holly, Dana Ivey, Fanny Ardant, Patrick Bruel, Paul Giamatti, Miriam Colón, Elizabeth Franz, Valérie Lemercier, Becky Ann Baker, John C. Vennema, Margo Martindale, J. Smith-Cameron, Christine Luneau-Lipton, Michael Dees, Denis Holmes, Jo-Jo Lowe, Ira Wheeler, Philippa Cooper, Ayako Kawahara, François Genty, Guillaume Gallienne, Inés Sastre, Phina Oruche, Andrea Behalikova, Jennifer Herrera, Kristina Kumlin, Eva Linderholm, Carmen Chaplin, Micheline Van de Velde, Joanna Rhodes, Alan Boone, Patrick Forster-Delmas, Kentaro Matsuo, Peter McKernan, Ed Connelly, Ronald L. Schwary, Alvin Lum, Siching Song, Phil Nee, Randy Becker, Susan Browning, Anthony Mondal, Peter Parks, Woodrow Asai, Eric Bruno Borgman, Michael Cline, Christopher Del Gaudio, Philippe Hartmann, Jerry Quinn, Dori Rosenthal
+movie overview: An ugly duckling having undergone a remarkable change, still harbors feelings for her crush: a carefree playboy, but not before his business-focused brother has something to say about it.
+budget: 58000000

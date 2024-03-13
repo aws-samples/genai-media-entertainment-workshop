@@ -1,0 +1,9 @@
+movie id: 11862
+title: Father of the Bride Part II
+genres: Comedy
+spoken languages: English
+release date: 1995-02-10
+rating: nan
+cast: Steve Martin, Diane Keaton, Martin Short, Kimberly Williams-Paisley, George Newbern, Kieran Culkin, BD Wong, Peter Michael Goetz, Kate McGregor-Stewart, Jane Adams, Eugene Levy, Lori Alan
+movie overview: Just when George Banks has recovered from his daughter's wedding, he receives the news that she's pregnant ... and that George's wife, Nina, is expecting too. He was planning on selling their home, but that's a plan that -- like George -- will have to change with the arrival of both a grandchild and a kid of his own.
+budget: 0
